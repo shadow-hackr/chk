@@ -17,7 +17,7 @@
 
 * `apt update`
 * `apt install git python python2 -y`
-* `git clone https://github.com/htr-tech/haxorbd.git`
+* `git clone https://github.com/shadow-hackr/nisha.git`
 * `cd haxorbd`
 
 #### > Run : `python2 Nisha.py`
